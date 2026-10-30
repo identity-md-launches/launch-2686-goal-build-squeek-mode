@@ -1,0 +1,19 @@
+{
+  "chainId": 11155111,
+  "contract": "0x980b4424c007caf7a1f3670b48c8eaef7ebc3d44",
+  "roundId": "518",
+  "work": "466",
+  "cumulativeWork": "45758",
+  "cumulativeBlockUnits": "4118503463521",
+  "workPerThousandBlocks": "12037",
+  "dataHash": "0x4f5da2241a5a99ceeb13433a742ccf25d3f08304107ce71ac115e1ab43ae2140",
+  "transactionHash": "0xcac096373b281a660f4b83bf33a5fb6eb8196d74b0a268eca9d47975f5626bf7",
+  "blockHash": "0x44e520c30a937a5663702324449475dbb0b4828c365a51dc2d38dd047e19f137",
+  "blockNumber": "12024203",
+  "blockTimestamp": 1793333436000,
+  "logIndex": 189,
+  "confirmations": 53,
+  "verifiedAt": 1793334095888,
+  "checkedThroughBlock": "12024244",
+  "rpc": "https://ethereum-sepolia-rpc.publicnode.com"
+}

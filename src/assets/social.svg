@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+ <rect width="1200" height="630" fill="#f4f3eb"/>
+ <path d="M56 111H1144M56 554H1144" stroke="#d7d9c9"/>
+ <g fill="#263421" font-family="Arial,sans-serif">
+  <text x="56" y="76" font-size="30" font-weight="600">(•ᴥ•)  Squeek mode</text>
+  <text x="56" y="237" font-size="58" font-weight="600" letter-spacing="-2">A little room</text>
+  <text x="56" y="309" font-size="58" font-weight="600" letter-spacing="-2">for a detour.</text>
+  <text x="58" y="374" font-size="24" fill="#666d5e">Reliable AI chat. Occasionally,</text>
+  <text x="58" y="410" font-size="24" fill="#666d5e">a different way through.</text>
+  <rect x="58" y="449" width="254" height="54" rx="7" fill="#3c542c"/>
+  <text x="84" y="484" font-size="20" fill="#fcfcf8">Bring your own key →</text>
+  <text x="58" y="591" font-size="18" fill="#666d5e">Your model. Your key. A very small companion.</text>
+ </g>
+ <rect x="657" y="158" width="485" height="352" rx="12" fill="#e7edda" stroke="#cad7a6"/>
+ <g font-family="Courier New,monospace" fill="#3c542c" font-size="22" xml:space="preserve">
+  <text x="688" y="198" font-size="15">burrow / 001           ascii habitat</text>
+  <text x="701" y="260">   .--------.       [detour &gt;]</text>
+  <text x="701" y="288">  /   \ | /  \          |</text>
+  <text x="701" y="316"> |   -- + --  |    -----+---</text>
+  <text x="701" y="344">  \   / | \  /          |</text>
+  <text x="701" y="372">   '--------'     (\_/)</text>
+  <text x="701" y="400">    ___nest___    (o.o)</text>
+  <text x="701" y="428">   / ~ ~ ~ ~  \   / &gt;o</text>
+  <text x="701" y="456"> __\__________/_____________</text>
+ </g>
+</svg>
